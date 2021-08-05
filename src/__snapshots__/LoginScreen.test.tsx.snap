@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<LoginScreen /> renders 1`] = `
+<Fragment>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/eagronom.png",
+      }
+    }
+  />
+</Fragment>
+`;
